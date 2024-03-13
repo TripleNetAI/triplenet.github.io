@@ -7,11 +7,11 @@
 
 **TripleNet AI Ventures** is working to revolutionize the triple net (NNN) investment landscape with our purpose-built generative AI toolset. We’ve harnessed the power of AI to analyze vast real estate datasets, uncover hidden opportunities, and execute profitable NNN acquisitions.
 
-## Our Mission
+# Our Mission
 
 Our mission is to empower investors with AI-driven insights, enabling them to make data-backed NNN investment decisions with greater confidence and precision. We understand the complexities of NNN opportunities: assessing the health of tenants’ business operations, understanding local market dynamics, executing deals, and managing properties. That’s why we’ve built AI-driven tools specifically tailored to this sector.
 
-## The TripleNet AI Advantage
+# The TripleNet AI Advantage
 
 * **Deep Analysis**: Our AI analyzes massive data sets to identify undervalued investment opportunities.
 * **Streamlined Acquisitions**: Our AI helps streamline key aspects of acquiring properties, including financing and contract analysis.
