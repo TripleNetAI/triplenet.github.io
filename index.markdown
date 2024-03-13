@@ -2,10 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+# layout: home
 ---
-
-# TripleNet AI Ventures
 
 **TripleNet AI Ventures** is working to revolutionize the triple net (NNN) investment landscape with our purpose-built generative AI toolset. We’ve harnessed the power of AI to analyze vast real estate datasets, uncover hidden opportunities, and execute profitable NNN acquisitions.
 
