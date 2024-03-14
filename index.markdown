@@ -9,7 +9,7 @@
 
 ## Our Mission
 
-Our mission is to empower investors with AI-driven insights, enabling them to make data-backed NNN investment decisions with greater confidence and precision. We understand the complexities of NNN opportunities: assessing the health of tenants’ business operations, understanding local market dynamics, executing deals, and managing properties. That’s why we’ve built AI-driven tools specifically tailored to this sector.
+Our mission is to empower investors with AI-driven insights, enabling them to make data-backed NNN investment decisions with greater confidence and precision. We understand the complexities of NNN opportunities: assessing the health of prospective and current tenants’ business operations, understanding local market dynamics, executing deals, and managing properties. That’s why we’ve built AI-driven tools specifically tailored to this sector.
 
 ## The TripleNet AI Advantage
 
