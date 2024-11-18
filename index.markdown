@@ -18,3 +18,5 @@ Our mission is to empower investors with AI-driven insights, enabling them to ma
 * **Optimized Management**: TripleNet AI continuously monitors our portfolio, suggesting strategies to maximize returns and mitigate risks.
 
 We believe generative AI holds the key to lowering the barriers to NNN investments. Join us in shaping the future of NNN investing. Contact us to learn more.
+
+{% include footer.html %}
