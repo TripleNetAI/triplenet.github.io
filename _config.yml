@@ -27,11 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TripleNetAI
 github_username:  TripleNetAI
 
-# Add this new section
-author:
-  name: TripleNetAI
-  email: inquiries@triplenetai.com
-
 # Add the footer text
 footer-text: TripleNetAI is a brand of SNG Holdings LLC
 
