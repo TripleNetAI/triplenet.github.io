@@ -20,8 +20,8 @@
 
 title: Triple Net AI Ventures
 email: inquiries@triplenetai.com
-description: >- # this means to ignore newlines until "baseurl:"
-  AI-driven Triple Net investment valuation, acquistion, and operations. Exciting stuff brewing!
+description: > # this means to ignore newlines until "baseurl:"
+  TripleNet AI is a brand of SNG Holdings LLC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TripleNetAI
